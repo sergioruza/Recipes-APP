@@ -34,7 +34,7 @@ $ npm start
 ## Introdução
 
 Este projeto possui o objetivo principal de criar uma aplicação de receitas utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API e,
-com os objetivos gerais de firmar conhecimentos em lógica e métodos de trabalho em grupo(soft-skills).
+com os objetivos gerais de firmar conhecimentos em lógica e métodos de trabalho em equipe(soft-skills).
 
 ## Análise técnica
 
