@@ -11,7 +11,7 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 ```bash
 
 # Faça o clone
-$ git clone git@github.com:sergioruza/Tunes.git
+$ git@github.com:sergioruza/Recipes-APP.git
 
 # Acesse a pasta
 $ cd Recipes-APP
