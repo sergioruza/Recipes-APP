@@ -1,4 +1,4 @@
-# <h1 align="center">🎶 Tunes 🎶</h1>
+# <h1 align="center">🍽️ Recipes-APP 🍽️</h1>
 <fig>
 <img src="https://images.pexels.com/photos/5737464/pexels-photo-5737464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Uma imagem relacionada ao projeto">
 </fig>
@@ -29,7 +29,7 @@ $ npm start
 * [TheMealDB-API](https://www.themealdb.com/) -  API usada.
 * [TheCocktailDB-API](https://www.thecocktaildb.com/) -  API usada.
 
-# Tunes
+# Recipes-APP
 
 ## Introdução
 
