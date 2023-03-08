@@ -73,13 +73,10 @@ Respeitando a proposta, o sistema deverá atender os seguintes requisitos:
   <details>
     <summary><strong>🏻‍💼 Membros da Equipe</strong></summary><br />
   
-  - @arthur-debiasi;
-  
-  - @caiobacode;
-  
-  - @fernando-costa;
-  
-  - @sergioruza;
+* [Caio Oliveira](https://github.com/caiobacode);
+* [Lilian Alves Durães](https://github.com/LilianAlvesDuraes);
+* [Fernando Barreto Costa](https://github.com/fernando-costa);
+* [Arthur Debiasi](https://github.com/arthur-debiasi);
   
   </details>
 
