@@ -3,6 +3,8 @@
 <img src="https://images.pexels.com/photos/5737464/pexels-photo-5737464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Uma imagem relacionada ao projeto">
 </fig>
 
+## 📡 Deploy: https://recipes-app-trybe.vercel.app/
+
 ## Inicialização
 Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramentas*.
 
